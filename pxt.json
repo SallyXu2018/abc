@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "settings.json"
+        "settings.json",
+        "task.json"
     ],
     "testFiles": [
         "test.ts"
